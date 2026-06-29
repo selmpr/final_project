@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14568109363",
+    "project_id": "h-reed",
+    "storage_bucket": "h-reed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14568109363:android:c7c3f6d882fe6f53ffba46",
+        "android_client_info": {
+          "package_name": "com.example.h_reed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnNMEKGiqmTwqaV2CI8tth93xDxS4Xgro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
